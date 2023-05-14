@@ -1,2 +1,2 @@
-web: gunicorn booking.wsgi
+web: gunicorn system.wsgi
 
